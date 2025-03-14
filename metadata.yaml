@@ -1,0 +1,92 @@
+_repo: Le-Sud-Oranais-etudes-floristiques-et-phytogeographiques-faites-au-cours-d-une-exploration-da__75454
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Briquet, John
+    aliases:
+    - Briquet, John Isaac
+    - Briquet, J. (John)
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '58004'
+    url: http://www.gutenberg.org/2009/agents/58004
+    wikipedia: https://en.wikipedia.org/wiki/John_Isaac_Briquet
+  - agent_name: Cardot, Jules
+    alias: Cardot, J. (Jules)
+    birthdate: 1860
+    deathdate: 1934
+    gutenberg_agent_id: '58005'
+    url: http://www.gutenberg.org/2009/agents/58005
+    wikipedia: https://en.wikipedia.org/wiki/Jules_Cardot
+  - agent_name: Corti, Alfredo
+    birthdate: 1880
+    deathdate: 1973
+    gutenberg_agent_id: '57994'
+    url: http://www.gutenberg.org/2009/agents/57994
+  - agent_name: Hennings, P. (Paul)
+    aliases:
+    - Hennings, Paul
+    - Hennings, Paul Christoph
+    birthdate: 1841
+    deathdate: 1908
+    gutenberg_agent_id: '58006'
+    url: http://www.gutenberg.org/2009/agents/58006
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Christoph_Hennings
+  - agent_name: Migula, W. (Walter)
+    alias: Migula, Walter Emil Friedrich August
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '56871'
+    url: http://www.gutenberg.org/2009/agents/56871
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Migula
+  - agent_name: Schmidle, W. (Wilhelm)
+    alias: Schmidle, Wilhelm
+    birthdate: 1860
+    deathdate: 1951
+    gutenberg_agent_id: '58009'
+    url: http://www.gutenberg.org/2009/agents/58009
+    wikipedia: https://de.wikipedia.org/wiki/Wilhelm_Schmidle
+  - agent_name: Zahlbruckner, Alexander
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '58007'
+    url: http://www.gutenberg.org/2009/agents/58007
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Zahlbruckner
+creator:
+  author:
+    agent_name: Hochreutiner, B. P. G. (Bénédict Pierre Georges)
+    aliases:
+    - Hochreutiner, B. P. G. (Benedict Pierre Georges)
+    - Hochreutiner, Bénédict Pierre Georges
+    birthdate: 1873
+    deathdate: 1959
+    gutenberg_agent_id: '58003'
+    url: http://www.gutenberg.org/2009/agents/58003
+    wikipedia: https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9dict_Pierre_Georges_Hochreutiner
+description: '"Extrait de l''Annuaire du Conservatoire et du Jardin botaniques de
+  Genève, années VII-VIII, 1903-1904."
+
+  "Mission officielle de la Ville de Genève en 1901."'
+gutenberg_issued: '2025-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75454'
+language: fr
+pgterms:marc904: https://bibdigital.rjb.csic.es/records/item/14220-le-sud-oranais
+pgterms:marc905: 20250217121914hochreutin
+pgterms:marc906: '1904'
+pgterms:marc907: CH
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Biblioteca Digital del Real Jardín Botánico)
+publication_note: '  $aGenève :$bImprimerie Romet, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Algeria'
+- !lcsh 'Phytogeography -- Algeria'
+- !lcc 'QK'
+- GITenberg
+title: 'Le Sud-Oranais: études floristiques et phytogéographiques faites au cours
+  d''une exploration dans le Sud-Ouest de l''Algérie en 1901'
+url: http://www.gutenberg.org/ebooks/75454
