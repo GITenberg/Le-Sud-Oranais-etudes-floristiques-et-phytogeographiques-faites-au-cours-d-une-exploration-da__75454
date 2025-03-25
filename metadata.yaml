@@ -52,6 +52,9 @@ contributor:
     gutenberg_agent_id: '58007'
     url: http://www.gutenberg.org/2009/agents/58007
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Zahlbruckner
+covers:
+- cover_type: archival
+  image_path: 75454-h/images/cover.jpg
 creator:
   author:
     agent_name: Hochreutiner, B. P. G. (Bénédict Pierre Georges)
@@ -67,6 +70,8 @@ description: '"Extrait de l''Annuaire du Conservatoire et du Jardin botaniques d
   Genève, années VII-VIII, 1903-1904."
 
   "Mission officielle de la Ville de Genève en 1901."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75454#Le-Sud-Oranais-etudes-floristiques-et-phytogeographiques-faites-au-cours-d-une-exploration-da_
 gutenberg_issued: '2025-02-24'
 gutenberg_type: Text
 identifiers:
